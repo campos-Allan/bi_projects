@@ -19,7 +19,7 @@ The original spreadsheet contained data on inventory movements, product arrivals
 <p align="center"><img src="https://i.imgur.com/DvlhZ2w.jpeg" width="800" /></p>
 <p align="center"><img src="https://i.imgur.com/hdqUHtk.jpeg" width="800" /></p>
 
-## [Power BI Dashboard for Pipeline Logistics and Operational Monitoring]()
+## [Power BI Dashboard for Pipeline Logistics and Operational Monitoring](https://www.linkedin.com/posts/allan-camposs_powerbi-dataanalytics-logaedstica-activity-7345457386897207296-QBQw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtg6uEBHdQXp8y9Wx7XjwrysDAtoVGhFAA)
 <p align="center"><img src="https://i.imgur.com/PMXL2yS.png" width="800" /></p>
 Power BI dashboard developed to support pipeline logistics operations by integrating data from two distinct systems: a modern Azure Databricks database and a legacy system exporting planning data via poorly formatted Excel files. The dashboard provides key operational indicators such as inventory, inbound/outbound flows, ship loading/unloading, sales, and final stock levels. It includes filters to explore data from a global overview down to specific pipelines, terminals, refineries, or ports. The result is a clean, efficient tool used daily by logistics teams for data-driven decision-making.
 
