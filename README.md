@@ -19,11 +19,11 @@ The original spreadsheet contained data on inventory movements, product arrivals
 <p align="center"><img src="https://i.imgur.com/DvlhZ2w.jpeg" width="800" /></p>
 <p align="center"><img src="https://i.imgur.com/hdqUHtk.jpeg" width="800" /></p>
 
-## [Power BI Dashboard for Pipeline Logistics and Operational Monitoring](https://www.linkedin.com/feed/update/urn:li:activity:7265348332594593795/)
+## [Power BI Dashboard for Pipeline Logistics and Operational Monitoring]()
 <p align="center"><img src="https://i.imgur.com/PMXL2yS.png" width="800" /></p>
 Power BI dashboard developed to support pipeline logistics operations by integrating data from two distinct systems: a modern Azure Databricks database and a legacy system exporting planning data via poorly formatted Excel files. The dashboard provides key operational indicators such as inventory, inbound/outbound flows, ship loading/unloading, sales, and final stock levels. It includes filters to explore data from a global overview down to specific pipelines, terminals, refineries, or ports. The result is a clean, efficient tool used daily by logistics teams for data-driven decision-making.
 
-## [Interactive Expense Dashboard]()
+## [Interactive Expense Dashboard](https://www.linkedin.com/posts/allan-camposs_datascience-googlesheets-powerbi-activity-7264985870812782593-__W5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtg6uEBHdQXp8y9Wx7XjwrysDAtoVGhFAA)
 The challenge was to replace a manual expense tracking process with an automated and interactive solution that would simplify financial control and decision-making. To address this, an automation system was created in Google Spreadsheet to record and organize the company’s expenses, along with a feature to automatically highlight upcoming due expenses. Using an interactive menu, those responsible can easily view, mark as paid, and track the status of bills, streamlining the workflow and minimizing the risk of late payments.
 
 <p align="center"><img src="https://i.imgur.com/tfkBpuB.jpeg" width="800" /></p>
