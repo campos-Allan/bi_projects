@@ -1,6 +1,10 @@
 # Index of Power BI projects
 I did these Power BI projects for companies, which is why I had to blur the images of the dashboards or make mock-up data to preserve the real data.
 
+## [Power BI Dashboard for Pipeline Logistics and Operational Monitoring](https://www.linkedin.com/posts/allan-camposs_powerbi-dataanalytics-logaedstica-activity-7345457386897207296-QBQw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtg6uEBHdQXp8y9Wx7XjwrysDAtoVGhFAA)
+<p align="center"><img src="https://i.imgur.com/PMXL2yS.png" width="800" /></p>
+Power BI dashboard developed to support pipeline logistics operations by integrating data from two distinct systems: a modern Azure Databricks database and a legacy system exporting planning data via poorly formatted Excel files. The dashboard provides key operational indicators such as inventory, inbound/outbound flows, ship loading/unloading, sales, and final stock levels. It includes filters to explore data from a global overview down to specific pipelines, terminals, refineries, or ports. The result is a clean, efficient tool used daily by logistics teams for data-driven decision-making.
+
 ## [Identifying and Analyzing Bottlenecks in the Logistics Network with Power BI](https://www.linkedin.com/feed/update/urn:li:activity:7265710665032454144/)
 The objective was to create a visual dashboard that would highlight critical areas of the logistics network, providing management with a detailed and focused view for decision-making. The first task involved accessing and processing a massive spreadsheet containing 40,000 rows of logistical data. Initially overwhelming, the solution was to apply filtering and transformation techniques to efficiently organize the information and segment the relevant data.
 
@@ -19,15 +23,3 @@ The original spreadsheet contained data on inventory movements, product arrivals
 <p align="center"><img src="https://i.imgur.com/DvlhZ2w.jpeg" width="800" /></p>
 <p align="center"><img src="https://i.imgur.com/hdqUHtk.jpeg" width="800" /></p>
 
-## [Power BI Dashboard for Pipeline Logistics and Operational Monitoring](https://www.linkedin.com/posts/allan-camposs_powerbi-dataanalytics-logaedstica-activity-7345457386897207296-QBQw?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtg6uEBHdQXp8y9Wx7XjwrysDAtoVGhFAA)
-<p align="center"><img src="https://i.imgur.com/PMXL2yS.png" width="800" /></p>
-Power BI dashboard developed to support pipeline logistics operations by integrating data from two distinct systems: a modern Azure Databricks database and a legacy system exporting planning data via poorly formatted Excel files. The dashboard provides key operational indicators such as inventory, inbound/outbound flows, ship loading/unloading, sales, and final stock levels. It includes filters to explore data from a global overview down to specific pipelines, terminals, refineries, or ports. The result is a clean, efficient tool used daily by logistics teams for data-driven decision-making.
-
-## [Interactive Expense Dashboard](https://www.linkedin.com/posts/allan-camposs_datascience-googlesheets-powerbi-activity-7264985870812782593-__W5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADtg6uEBHdQXp8y9Wx7XjwrysDAtoVGhFAA)
-The challenge was to replace a manual expense tracking process with an automated and interactive solution that would simplify financial control and decision-making. To address this, an automation system was created in Google Spreadsheet to record and organize the company’s expenses, along with a feature to automatically highlight upcoming due expenses. Using an interactive menu, those responsible can easily view, mark as paid, and track the status of bills, streamlining the workflow and minimizing the risk of late payments.
-
-<p align="center"><img src="https://i.imgur.com/tfkBpuB.jpeg" width="800" /></p>
-
-Additionally, an interactive dashboard was developed in Power BI to provide real-time insights into the company's financial health. The dashboard displays dynamic charts that track the evolution of expenses over time, show the distribution of spending by category, and compare revenue, profit, and expenses. This detailed view offers the team a solid foundation for more informed financial decisions, identifying areas for optimization and ensuring better control over spending and budgeting. The solution increased efficiency and provided valuable insights for leadership.
-
-<p align="center"><img src="https://i.imgur.com/3LIo9LC.jpeg" width="800" /></p>
